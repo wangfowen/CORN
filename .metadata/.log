@@ -1,0 +1,153 @@
+!SESSION 2012-07-03 23:24:43.952 -----------------------------------------------
+eclipse.buildId=M20110909-1335
+java.version=1.6.0_29
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/Owen/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/Owen/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2012-07-03 23:24:55.722
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-07-03 23:26:17.735
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-07-03 23:26:17.736
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-07-03 23:26:17.736
+!MESSAGE Software being installed: EGit Import Support 2.0.0.201206130900-r (org.eclipse.egit.import.feature.group 2.0.0.201206130900-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-07-03 23:26:17.736
+!MESSAGE Missing requirement: EGit Import Support 2.0.0.201206130900-r (org.eclipse.egit.import.feature.group 2.0.0.201206130900-r) requires 'org.eclipse.team.core 3.6.100' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-07-03 23:26:17.738
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-07-03 23:26:17.738
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-07-03 23:26:17.738
+!MESSAGE Software being installed: EGit Import Support 2.0.0.201206130900-r (org.eclipse.egit.import.feature.group 2.0.0.201206130900-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-07-03 23:26:17.738
+!MESSAGE Missing requirement: EGit Import Support 2.0.0.201206130900-r (org.eclipse.egit.import.feature.group 2.0.0.201206130900-r) requires 'org.eclipse.team.core 3.6.100' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-07-03 23:26:50.594
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-07-03 23:26:50.594
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-07-03 23:26:50.594
+!MESSAGE Software being installed: EGit Import Support 2.0.0.201206130900-r (org.eclipse.egit.import.feature.group 2.0.0.201206130900-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-07-03 23:26:50.594
+!MESSAGE Missing requirement: EGit Import Support 2.0.0.201206130900-r (org.eclipse.egit.import.feature.group 2.0.0.201206130900-r) requires 'org.eclipse.team.core 3.6.100' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-07-03 23:26:50.598
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-07-03 23:26:50.598
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-07-03 23:26:50.598
+!MESSAGE Software being installed: EGit Import Support 2.0.0.201206130900-r (org.eclipse.egit.import.feature.group 2.0.0.201206130900-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-07-03 23:26:50.598
+!MESSAGE Missing requirement: EGit Import Support 2.0.0.201206130900-r (org.eclipse.egit.import.feature.group 2.0.0.201206130900-r) requires 'org.eclipse.team.core 3.6.100' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-07-03 23:26:58.269
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-07-03 23:26:58.269
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-07-03 23:26:58.269
+!MESSAGE Software being installed: EGit Import Support 2.0.0.201206130900-r (org.eclipse.egit.import.feature.group 2.0.0.201206130900-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-07-03 23:26:58.269
+!MESSAGE Missing requirement: EGit Import Support 2.0.0.201206130900-r (org.eclipse.egit.import.feature.group 2.0.0.201206130900-r) requires 'org.eclipse.team.core 3.6.100' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-07-03 23:26:58.306
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-07-03 23:26:58.306
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-07-03 23:26:58.306
+!MESSAGE Software being installed: EGit Import Support 2.0.0.201206130900-r (org.eclipse.egit.import.feature.group 2.0.0.201206130900-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-07-03 23:26:58.306
+!MESSAGE Missing requirement: EGit Import Support 2.0.0.201206130900-r (org.eclipse.egit.import.feature.group 2.0.0.201206130900-r) requires 'org.eclipse.team.core 3.6.100' but it could not be found
+
+!ENTRY org.eclipse.help.base 4 4 2012-07-03 23:28:33.673
+!MESSAGE Help documentation could not be indexed completely.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2012-07-03 23:28:33.673
+!MESSAGE Help document /org.eclipse.mylyn.help.ui/doc/notices.html cannot be opened.
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-07-03 23:29:00.374
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-07-03 23:29:00.374
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-07-03 23:29:00.374
+!MESSAGE Software being installed: EGit Import Support 2.0.0.201206130900-r (org.eclipse.egit.import.feature.group 2.0.0.201206130900-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-07-03 23:29:00.374
+!MESSAGE Missing requirement: EGit Import Support 2.0.0.201206130900-r (org.eclipse.egit.import.feature.group 2.0.0.201206130900-r) requires 'org.eclipse.team.core 3.6.100' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-07-03 23:29:00.413
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-07-03 23:29:00.413
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-07-03 23:29:00.414
+!MESSAGE Software being installed: EGit Import Support 2.0.0.201206130900-r (org.eclipse.egit.import.feature.group 2.0.0.201206130900-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-07-03 23:29:00.414
+!MESSAGE Missing requirement: EGit Import Support 2.0.0.201206130900-r (org.eclipse.egit.import.feature.group 2.0.0.201206130900-r) requires 'org.eclipse.team.core 3.6.100' but it could not be found
+!SESSION 2012-07-03 23:30:42.135 -----------------------------------------------
+eclipse.buildId=M20110909-1335
+java.version=1.6.0_29
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/Owen/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/Owen/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2012-07-03 23:30:57.614
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.egit.ui 4 0 2012-07-03 23:32:38.829
+!MESSAGE Invalid project description.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Invalid project description.
+	at org.eclipse.core.internal.resources.Project.checkDescription(Project.java:175)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:53)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:287)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:269)
+	at org.eclipse.egit.ui.internal.clone.ProjectUtils.createExistingProject(ProjectUtils.java:156)
+	at org.eclipse.egit.ui.internal.clone.ProjectUtils.access$0(ProjectUtils.java:119)
+	at org.eclipse.egit.ui.internal.clone.ProjectUtils$1.run(ProjectUtils.java:91)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2326)
+	at org.eclipse.egit.ui.internal.clone.ProjectUtils.createProjects(ProjectUtils.java:111)
+	at org.eclipse.egit.ui.internal.clone.ProjectUtils.createProjects(ProjectUtils.java:55)
+	at org.eclipse.egit.ui.internal.clone.GitImportWizard.importProjects(GitImportWizard.java:237)
+	at org.eclipse.egit.ui.internal.clone.GitImportWizard.access$2(GitImportWizard.java:219)
+	at org.eclipse.egit.ui.internal.clone.GitImportWizard$2.run(GitImportWizard.java:189)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+Contains: OK
+Contains: /Users/Owen/workspace/CORN overlaps the workspace location: /Users/Owen/workspace/CORN
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2012-07-03 23:32:38.830
+!MESSAGE Invalid project description.
+!SUBENTRY 2 unknown 0 0 2012-07-03 23:32:38.830
+!MESSAGE OK
+!SUBENTRY 2 org.eclipse.core.resources 4 77 2012-07-03 23:32:38.830
+!MESSAGE /Users/Owen/workspace/CORN overlaps the workspace location: /Users/Owen/workspace/CORN
+
+!ENTRY org.eclipse.egit.ui 4 0 2012-07-03 23:32:43.367
+!MESSAGE Invalid project description.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Invalid project description.
+	at org.eclipse.core.internal.resources.Project.checkDescription(Project.java:175)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:53)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:287)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:269)
+	at org.eclipse.egit.ui.internal.clone.ProjectUtils.createExistingProject(ProjectUtils.java:156)
+	at org.eclipse.egit.ui.internal.clone.ProjectUtils.access$0(ProjectUtils.java:119)
+	at org.eclipse.egit.ui.internal.clone.ProjectUtils$1.run(ProjectUtils.java:91)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2326)
+	at org.eclipse.egit.ui.internal.clone.ProjectUtils.createProjects(ProjectUtils.java:111)
+	at org.eclipse.egit.ui.internal.clone.ProjectUtils.createProjects(ProjectUtils.java:55)
+	at org.eclipse.egit.ui.internal.clone.GitImportWizard.importProjects(GitImportWizard.java:237)
+	at org.eclipse.egit.ui.internal.clone.GitImportWizard.access$2(GitImportWizard.java:219)
+	at org.eclipse.egit.ui.internal.clone.GitImportWizard$2.run(GitImportWizard.java:189)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+Contains: OK
+Contains: /Users/Owen/workspace/CORN overlaps the workspace location: /Users/Owen/workspace/CORN
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2012-07-03 23:32:43.367
+!MESSAGE Invalid project description.
+!SUBENTRY 2 unknown 0 0 2012-07-03 23:32:43.367
+!MESSAGE OK
+!SUBENTRY 2 org.eclipse.core.resources 4 77 2012-07-03 23:32:43.367
+!MESSAGE /Users/Owen/workspace/CORN overlaps the workspace location: /Users/Owen/workspace/CORN
