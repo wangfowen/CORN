@@ -2,5 +2,7 @@
 <resources>
 
     <string name="app_name">CORN</string>
+    <string name="load_game">Load Game</string>
+    <string name="new_game">New Game</string>
 
 </resources>
