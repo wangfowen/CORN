@@ -6,7 +6,6 @@ public class Player {
 	//saved into db
 	private int id;
 	private String name;
-	private ArrayList<Integer> itemIds;
 	//not persisted
 	private ArrayList<Item> itemList;
 	private Character character;

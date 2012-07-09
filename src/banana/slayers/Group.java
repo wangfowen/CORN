@@ -6,7 +6,6 @@ public class Group {
 	//saved into db
 	private int id;
 	private String name;
-	private ArrayList<Integer> playerIds;
 	//not persisted
 	private ArrayList<Player> playerList;
 	
@@ -16,11 +15,10 @@ public class Group {
 		
 		for (Player p : pl) {
 			this.playerList.add(p);
-			this.playerIds.add(p.getId());
 		}
 	}
 	
 	public void save() {
-
+		//save the players ids in an array, the ids, and the names
 	}
 }
